@@ -14,29 +14,28 @@
 
 ---
 
-## Who I Am
+## About
 
-I work at the intersection of data science, machine learning, and financial analysis.  
-I care about three things: clean data, honest models, and outputs that decision makers can actually use.
+I work at the intersection of data science, machine learning, and financial analysis.
 
-I am completing a Master’s in Data Science and Innovation at UTS Sydney while working as a Research Analyst, where I combine Python, SQL, and financial modelling to study ASX listed companies and market behaviour. Before this, I built production ML systems as an AI Engineer and learnt how revenue really moves by working hands on in sales and real estate.
+I am completing a Master’s in Data Science and Innovation at UTS Sydney and working as a Research Analyst, where I model ASX listed companies, study markets, and build forecasting workflows in Python and SQL. My background also includes AI engineering, sales leadership, and real estate, which gives me a commercial view of how data products must perform in reality.
 
-If a problem involves messy data, uncertainty, money, or all three, that is usually where I fit.
-
----
-
-## What I Do Now
-
-- Research and model equity markets using Python, SQL, Excel, and statistical techniques  
-- Build machine learning workflows for forecasting, classification, and decision support  
-- Design data pipelines and deployment paths with Airflow, Snowflake, dbt, Docker, and Azure  
-- Translate technical work into clear stories for investors, managers, and non technical stakeholders  
+If a problem involves noisy data, risk, or money, that is usually where I fit.
 
 ---
 
-## Core Technical Stack
+## Snapshot
 
-### Programming and Data Analysis
+- Build and deploy machine learning models for forecasting, classification, and decision support  
+- Design data pipelines with Airflow, Snowflake, dbt, Docker, and Azure  
+- Perform financial and statistical modelling for equities and portfolios  
+- Create dashboards and narratives that investors and stakeholders can act on  
+
+---
+
+## Technical Stack
+
+### Programming and Analysis
 
 - Python, SQL, Excel  
 - Pandas, NumPy, Jupyter Notebook  
@@ -45,8 +44,8 @@ If a problem involves messy data, uncertainty, money, or all three, that is usua
 
 - Supervised and unsupervised learning  
 - Regression and classification models  
-- Deep learning with CNNs, RNNs, and LSTMs  
-- Natural language processing and LLM applications  
+- Deep learning with CNNs, RNNs, LSTMs  
+- Natural language processing and applications of LLMs  
 - Feature engineering and model optimisation  
 
 ### Financial and Statistical Modelling
@@ -54,7 +53,7 @@ If a problem involves messy data, uncertainty, money, or all three, that is usua
 - Time series forecasting  
 - Portfolio optimisation and risk analysis  
 - Valuation modelling and quantitative research  
-- Statistical inference for experiments and studies  
+- Statistical inference and experiment design  
 
 ### Data Engineering and MLOps
 
@@ -63,42 +62,35 @@ If a problem involves messy data, uncertainty, money, or all three, that is usua
 - ETL and ELT pipelines, data warehousing  
 - REST API integration, Docker, Git, CI/CD  
 
-### Data Visualisation and Communication
+### Visualisation and Storytelling
 
 - Tableau, Matplotlib, Seaborn  
-- Dashboard design and KPI tracking  
-- Data storytelling, report writing, and stakeholder presentations  
+- Dashboard design, KPI tracking  
+- Data storytelling and report writing  
 
 ### Web and Application Development
 
-- HTML, CSS  
-- Streamlit and FastAPI for end to end ML applications  
-- Render and similar platforms for deployment  
+- HTML and CSS  
+- Streamlit and FastAPI  
+- End to end ML applications and API based services  
 
 ---
 
-## Commercial Experience
+## Experience
 
-- Research Analyst at KOSEC  
-  - Equity research on ASX listed companies  
-  - Financial modelling, forecasting, and visual analytics  
-  - Weekly market commentary grounded in data
+**Research Analyst – KOSEC, Sydney**  
+Equity research, financial modelling, and market analysis on ASX listed companies using Python, Excel, SQL, and Tableau. Produce weekly market insights and build forecasting tools that support portfolio decisions.
 
-- AI Engineer at Avkalan AI  
-  - Built and deployed machine learning models for automation and decision support  
-  - Created interactive financial and analytical dashboards  
-  - Wrote applied pieces on large language models
+**AI Engineer – Avkalan AI, Remote**  
+Designed and deployed machine learning models in Python with TensorFlow and scikit learn. Built interactive dashboards for financial and operational use cases and wrote applied content on large language models.
 
-- Sales Lead roles across Smart Energy and Harbour Lane Furniture  
-  - Lead generation, negotiation, and closing  
-  - CRM driven sales pipeline management and upsell strategy  
-  - Achieved significant revenue outcomes in a short time frame
+**Sales Lead Roles – Smart Energy and Harbour Lane Furniture**  
+Lead generation, negotiation, and closing. Managed CRM driven pipelines, optimised sales strategy, and delivered strong revenue outcomes within short time frames.
 
-- Real Estate Agent and Co Founder at JK Reality in India  
-  - Structured deals in residential real estate and investment property  
-  - Used market research and data to guide clients through uncertain conditions  
+**Real Estate Agent and Co Founder – JK Reality, India**  
+Structured and closed residential and investment property deals. Used market data, research, and on the ground work to guide clients through uncertain conditions.
 
-These roles sharpened my skills in negotiation, sales strategy, pipeline management, market research, CRM proficiency, team training, and project management.
+These roles sharpened my skills in negotiation, sales strategy, pipeline management, market research, CRM systems, team training, and project management.
 
 ---
 
@@ -127,19 +119,15 @@ These roles sharpened my skills in negotiation, sales strategy, pipeline managem
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaideepgarlyal15&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaideepgarlyal15&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepgarlyal15&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepgarlyal15&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepgarlyal15&layout=compact&theme=github_dark_dimmed&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaideepgarlyal15&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepgarlyal15&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -147,15 +135,14 @@ These roles sharpened my skills in negotiation, sales strategy, pipeline managem
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Jaideepgarlyal15/Jaideepgarlyal15/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/Jaideepgarlyal15/Jaideepgarlyal15/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid snake animation" />
 </p>
 
 ---
 
-## How To Reach Me
+## Contact
 
-If you want to talk about markets, models, or building something that should not break when the data gets ugly:
+If you would like to discuss markets, models, or building systems that hold up under pressure:
 
 - Email: **j.garlyal@gmail.com**  
 - LinkedIn: **https://linkedin.com/in/jaideep025**
-
