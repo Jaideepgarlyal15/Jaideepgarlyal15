@@ -1,97 +1,150 @@
-<h1 align="center">Hi, I'm Jaideep Singh Garlyal</h1>
+<h1 align="center">Jaideep Singh Garlyal</h1>
+<h3 align="center">Data Scientist | Financial Modelling | Machine Learning Engineer | Research Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaideepgarlyal15&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://x.com/JDNewToDos" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/JDNewToDos?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
-## About Me
-
-I am a Data Scientist and Analyst focused on machine learning, financial modelling, and data engineering. I am currently pursuing a Master’s in Data Science and Innovation at UTS Sydney. My work bridges academic rigor with real industry outcomes, combining research-driven insights with practical execution.
-
-I enjoy developing end-to-end machine learning systems, analysing complex datasets, and building products that support strategic decision-making in finance and technology. My background also includes strong commercial experience in sales, lead generation, and customer relationship management, giving me a balanced technical and business-oriented profile.
-
-I am open to collaborating on projects related to machine learning, artificial intelligence, blockchain, financial analytics, and data engineering.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaideepgarlyal15&label=Profile%20Views&color=grey&style=flat-square" />
+</div>
 
 ---
 
-## Professional Snapshot
+## About Me
 
-### Data and Machine Learning
-- Development and deployment of ML models using Python, TensorFlow, scikit-learn.
-- Experience with supervised and unsupervised learning, deep learning, LSTMs, NLP, and LLM applications.
-- Skilled in feature engineering, model optimisation, and statistical analysis.
+I am a Data Scientist and Analyst with a focus on financial modelling, machine learning, and data engineering. My work brings together analytical depth and practical execution to solve problems across finance, technology, and business operations. I am currently completing a Master’s in Data Science and Innovation at UTS Sydney and working as a Research Analyst, where I evaluate companies, build predictive models, and translate complex datasets into strategic insights.
 
-### Data Engineering and MLOps
-- Experience with Apache Airflow, Snowflake, Azure Cloud, dbt, SQL, Docker, and CI/CD.
-- Skilled in ETL and ELT pipelines, data warehousing, and production API development.
+My background spans AI engineering, equity research, sales leadership, and real estate strategy. This unique mix allows me to understand business problems from both a commercial and a technical angle. I am driven by precision, clarity, and producing work that delivers measurable value.
 
-### Finance and Quantitative Skills
-- Financial modelling, valuation, time series forecasting, and portfolio analytics.
-- Experience performing equity research and preparing weekly ASX market insights for KOSEC.
+I am open to collaborating on large scale machine learning systems, finance and investment analytics, applied AI, risk modelling, and research projects.
 
-### Sales and Communication
-- Delivered $400,000 in furniture sales within six months at Harbour Lane Furniture.
-- Skilled in negotiation, CRM systems, sales strategy, customer engagement, and lead generation.
-- Experienced in stakeholder communication and analytical storytelling.
+---
+
+## Experience
+
+### Research Analyst — KOSEC Sydney  
+October 2025 to Present  
+:contentReference[oaicite:2]{index=2}  
+- Conduct equity research and financial modelling on ASX-listed companies using Python, Excel, and SQL.  
+- Produce weekly ASX market wraps, providing macro, sector, and earnings insights with data-supported commentary.  
+- Build forecasting models with machine learning to enhance portfolio decision-making.  
+- Develop analytical dashboards using Tableau and Matplotlib for communication with senior stakeholders.
+
+### AI Engineer — Avkalan AI (London, Remote)  
+October 2023 to May 2024  
+:contentReference[oaicite:3]{index=3}  
+- Built and deployed machine learning models using Python, TensorFlow, and scikit-learn, reaching close to 90 percent accuracy.  
+- Developed more than fifty interactive dashboards using Tableau and Streamlit to improve decision quality.  
+- Authored seven articles on large language models, expanding brand reach and increasing website traffic.
+
+### Sales Lead Generator — Smart Energy  
+October 2025 to November 2025  
+:contentReference[oaicite:4]{index=4}  
+- Qualified leads through email, phone, and social media channels.  
+- Optimised lead generation workflows and supported sales strategy execution.
+
+### Assistant Manager (Sales Lead) — Harbour Lane Furniture and Bedding  
+September 2024 to October 2025  
+:contentReference[oaicite:5]{index=5}  
+- Achieved 400,000 AUD in sales within six months.  
+- Managed customer interactions, upselling, inventory coordination, and delivery workflows.  
+- Improved revenue by 35 percent through strategic customer engagement and sales techniques.  
+- Supported team members, trained new staff, and handled product displays.
+
+### Real Estate Agent and Co-Founder — JK Reality, India  
+August 2020 to September 2023  
+:contentReference[oaicite:6]{index=6}  
+- Closed multiple high value property deals through lead generation, negotiation, and market research.  
+- Advised clients on investments and property opportunities.  
+- Collaborated with builders and partners to accelerate property liquidation during economic downturns.
+
+---
+
+## Skills
+
+### Programming and Data Analysis  
+Python, SQL, Excel, Pandas, NumPy, Jupyter Notebook  
+:contentReference[oaicite:7]{index=7}  
+
+### Machine Learning and AI  
+Supervised and unsupervised learning, regression and classification, deep learning, CNNs, RNNs, LSTMs, NLP, LLMs, feature engineering, model optimisation  
+:contentReference[oaicite:8]{index=8}  
+
+### Data Engineering and MLOps  
+Apache Airflow, Snowflake, Azure Cloud, dbt, DBeaver, ETL and ELT pipelines, data warehousing, API integration, Docker, Git, CI/CD  
+:contentReference[oaicite:9]{index=9}  
+
+### Financial and Statistical Modelling  
+Time series forecasting, portfolio optimisation, valuation modelling, quantitative research, risk analysis, statistical inference  
+:contentReference[oaicite:10]{index=10}  
+
+### Data Visualisation  
+Tableau, Matplotlib, Seaborn, dashboard development, KPI tracking  
+:contentReference[oaicite:11]{index=11}  
+
+### Web and Application Development  
+HTML, CSS, FastAPI, Streamlit, REST APIs, production deployments  
+:contentReference[oaicite:12]{index=12}  
+
+### Sales and Business Skills  
+Negotiation, sales strategy, customer relationship management, lead generation, prospecting, inventory management, project management, CRM proficiency  
+:contentReference[oaicite:13]{index=13}  
+
+---
+
+## Featured Technical Strengths
+
+- Building end-to-end machine learning systems that move from raw data to deployed applications  
+- Combining finance and artificial intelligence for investment analytics  
+- Data storytelling and stakeholder communication  
+- Creating structured, scalable data pipelines for production environments  
+- Applying statistical thinking to guide decision-making and research  
 
 ---
 
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaideepgarlyal15&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaideepgarlyal15&theme=algolia&no-frame=true&margin-w=5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaideepgarlyal15&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaideepgarlyal15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepgarlyal15&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepgarlyal15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepgarlyal15&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepgarlyal15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Languages and Tools
+## Tools and Technologies
 
-<p align="center">  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="50" />  
-  <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_black_rgb_0.png" width="50" />  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="50" />
 </p>
 
 ---
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://x.com/JDNewToDos" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/jaideep025" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-</p>
+## Contact
 
 Email: j.garlyal@gmail.com  
-I am passionate about football and enjoy strength training.
+LinkedIn: https://linkedin.com/in/jaideep025  
+
+I am passionate about finance, artificial intelligence, strategic problem solving, and building technology that delivers real outcomes.
 
 ---
 
-## Chess
+## Additional Work
 
 If you enjoy chess, feel free to connect with me there:  
 https://lichess.org/?user=jaideepgarlyal15
-
