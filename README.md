@@ -48,27 +48,30 @@ My work focuses on bridging **finance, machine learning, and data engineering** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jaideepgarlyal15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
-    alt="Jaideep GitHub Stats" 
-    height="180" 
-  />
+  <a href="https://github.com/Jaideepgarlyal15">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Jaideepgarlyal15&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+      alt="Jaideep GitHub statistics"
+      height="160"
+    />
+  </a>
+  <a href="https://github.com/Jaideepgarlyal15">
+    <img
+      src="https://streak-stats.demolab.com?user=Jaideepgarlyal15&theme=tokyonight&hide_border=true"
+      alt="Jaideep GitHub streak"
+      height="160"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Jaideepgarlyal15&theme=github-dark&hide_border=false" 
-    alt="Jaideep GitHub Streak" 
-    height="180" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jaideepgarlyal15&layout=compact&theme=github_dark" 
-    alt="Jaideep Top Languages" 
-    height="160" 
-  />
+  <a href="https://github.com/Jaideepgarlyal15">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideepgarlyal15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      alt="Jaideep top languages"
+      height="160"
+    />
+  </a>
 </p>
 
 
