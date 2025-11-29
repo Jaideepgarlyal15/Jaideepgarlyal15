@@ -119,16 +119,29 @@ These roles sharpened my skills in negotiation, sales strategy, pipeline managem
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaideepgarlyal15&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jaideepgarlyal15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    alt="Jaideep GitHub statistics"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepgarlyal15&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Jaideepgarlyal15&theme=github-dark&hide_border=false"
+    alt="Jaideep GitHub streak"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepgarlyal15&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideepgarlyal15&layout=compact&theme=github_dark"
+    alt="Jaideep top languages"
+    height="160"
+  />
 </p>
+
 
 ---
 
