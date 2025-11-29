@@ -1,101 +1,65 @@
 <h1 align="center">Jaideep Singh Garlyal</h1>
-<h3 align="center">Data Scientist · Machine Learning Engineer · Financial Modelling</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Financial Modelling & Research</h3>
 
 <p align="center">
-  <a href="mailto:j.garlyal@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/jaideep025">LinkedIn</a> •
-  <a href="https://github.com/Jaideepgarlyal15">GitHub</a>
+  <a href="mailto:j.garlyal@gmail.com"><img src="https://img.shields.io/badge/Email-j.garlyal%40gmail.com-lightgrey?style=flat-square"></a>
+  <a href="https://linkedin.com/in/jaideep025"><img src="https://img.shields.io/badge/LinkedIn-jaideep025-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://x.com/JDNewToDos"><img src="https://img.shields.io/twitter/follow/JDNewToDos?style=flat-square&logo=x&label=Twitter"></a>
+  <a href="https://github.com/Jaideepgarlyal15"><img src="https://komarev.com/ghpvc/?username=Jaideepgarlyal15&style=flat-square&color=blue" alt="Profile Views" /></a>
 </p>
 
 ---
 
-## About
+### 🧠 About Me
 
-I work at the intersection of data science, machine learning and financial analysis.  
-My focus is simple: clean data, honest models and outputs that decision makers can actually use.
+I’m a **Data Scientist and Research Analyst** based in Sydney, currently pursuing a **Master’s in Data Science and Innovation at UTS**.  
+My work focuses on bridging **finance, machine learning, and data engineering** to build predictive, explainable, and scalable solutions that drive measurable outcomes.
 
-I am completing a Master of Data Science and Innovation at UTS Sydney and working as a Research Analyst, where I study markets, build forecasting workflows in Python and SQL and translate noisy data into clear narratives.
-
-My background includes AI engineering, equity research, sales leadership and real estate strategy, which gives me a commercial view of how data products must perform in reality.
-
-I am interested in:
-
-- Systematic and discretionary strategies that use data for an edge rather than hype  
-- Machine learning systems that can be monitored, versioned and shipped into production  
-- Products that sit between finance, technology and operations, where execution quality matters
+- 🧩 Skilled in **AI engineering, equity research, sales leadership, and financial analytics**
+- 🔬 Building models for **ASX-listed companies** and deploying ML systems for real-world applications
+- 🤝 Open to collaborating on **AI + Finance**, **MLOps**, or **Applied Research** projects
+- ⚡ Outside of work: passionate about **football, chess, and the gym**
 
 ---
 
-## What I Work On
-
-- Research for ASX listed companies and investment ideas  
-- Forecasting workflows in Python, SQL and Excel for market analysis  
-- Machine learning models for classification, regression and time series  
-- Data products and dashboards that help non technical stakeholders act on insights  
-
----
-
-## Languages and Tools
+### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,postgres,git,github,linux" alt="core languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="machine learning" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,html,css,js" alt="web and apps" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=airflow,snowflake,azure,docker" alt="data engineering" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tableau" alt="visualisation" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## GitHub Analytics
+
+### 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/Jaideepgarlyal15">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Jaideepgarlyal15&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-      alt="Jaideep GitHub statistics"
-      height="160"
-    />
-  </a>
-  <a href="https://github.com/Jaideepgarlyal15">
-    <img
-      src="https://streak-stats.demolab.com?user=Jaideepgarlyal15&theme=tokyonight&hide_border=true"
-      alt="Jaideep GitHub streak"
-      height="160"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jaideepgarlyal15">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideepgarlyal15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      alt="Jaideep top languages"
-      height="160"
-    />
-  </a>
+  <img src="https://github.com/Jaideepgarlyal15/Jaideepgarlyal15/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
 </p>
 
 ---
 
-## Contribution Snake
+### 📫 Contact
 
-![Contribution grid snake animation](https://raw.githubusercontent.com/Jaideepgarlyal15/Jaideepgarlyal15/output/github-contribution-grid-snake.svg)
+If you would like to discuss markets, models, or AI systems that deliver measurable results:
+
+- 📧 Email: [j.garlyal@gmail.com](mailto:j.garlyal@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jaideep025](https://linkedin.com/in/jaideep025)  
+- 🧵 Twitter: [@JDNewToDos](https://x.com/JDNewToDos)
 
 ---
-
-## Contact
-
-If you want to talk about markets, models or AI systems that should not break when the data gets ugly:
-
-- Email: <a href="mailto:j.garlyal@gmail.com">j.garlyal@gmail.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/jaideep025">jaideep025</a>  
-- Lichess: <a href="https://lichess.org/?user=jaideepgarlyal15">jaideepgarlyal15</a>
+⭐ **Built with purpose — to merge Data, AI, and Finance into one intelligent world.**
